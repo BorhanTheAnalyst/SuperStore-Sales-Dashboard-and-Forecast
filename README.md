@@ -40,12 +40,12 @@ This Power BI project focuses on analyzing sales data for a fictional SuperStore
 
 
 ## How to Use
-1. Download the Power BI file (`SuperStore_Sales_Dashboard.pbix`).
+1. Download the Power BI file (`SuperStore Sales Dashboard and Forecast.pbix`).
 2. Open it in Power BI Desktop.
 3. Interact with the dashboard to explore sales data and view forecasts.
 
 ## Contact
 Feel free to reach out if you have any questions or feedback:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: [borhan.chat@gmail.com](mailto:borhan.chat@gmail.com)
+- **LinkedIn**: [Md Borhan Uddin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mdborhanuddin/))
 
