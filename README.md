@@ -47,5 +47,5 @@ This Power BI project focuses on analyzing sales data for a fictional SuperStore
 ## Contact
 Feel free to reach out if you have any questions or feedback:
 - **Email**: [borhan.chat@gmail.com](mailto:borhan.chat@gmail.com)
-- **LinkedIn**: [Md Borhan Uddin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mdborhanuddin/))
+- **LinkedIn**: [Md Borhan Uddin](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mdborhanuddin/)
 
