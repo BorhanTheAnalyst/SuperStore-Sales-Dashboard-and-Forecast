@@ -38,8 +38,6 @@ This Power BI project focuses on analyzing sales data for a fictional SuperStore
 - Forecasted a 10% increase in sales for the next 15 days.
 - Recommended prioritizing high-performing product categories for increased inventory allocation.
 
-## Repository Structure
-SuperStore-Sales-Dashboard-Forecast/ ├── Data/ │ ├── SuperStore_Sales.xlsx ├── Screenshots/ │ ├── Dashboard_Overview.png │ ├── Sales_Forecast.png ├── SuperStore_Sales_Dashboard.pbix ├── README.md
 
 ## How to Use
 1. Download the Power BI file (`SuperStore_Sales_Dashboard.pbix`).
