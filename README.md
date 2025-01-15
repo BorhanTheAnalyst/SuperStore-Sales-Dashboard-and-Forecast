@@ -4,7 +4,7 @@ Power BI project analyzing SuperStore sales data, featuring an interactive dashb
 # SuperStore Sales Dashboard and Forecast
 
 ## Overview
-This Power BI project focuses on analyzing sales data for a fictional SuperStore. The project features:
+This Power BI project focuses on analyzing sales data for a SuperStore. The project features:
 - An **interactive dashboard** to explore sales performance.
 - A **15-day sales forecast** using time series analysis.
 
