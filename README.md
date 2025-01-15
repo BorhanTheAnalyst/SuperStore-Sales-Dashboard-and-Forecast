@@ -30,8 +30,11 @@ This Power BI project focuses on analyzing sales data for a fictional SuperStore
 - **DAX**: Custom calculations and measures for KPIs.
 
 ## Visuals
-![Dashboard Overview](link-to-screenshot.png)
+![SuperStore Sales Dashboard and Forecast_page-0001](https://github.com/user-attachments/assets/63d0829f-895b-4eda-bebe-075e53faebae)
+
 *Figure 1: Interactive dashboard overview with key insights.*
+
+![Uploading SuperStore Sales Dashboard and Forecast_page-0002.jpg…]()
 
 ## Insights
 - Identified underperforming regions with potential for targeted marketing campaigns.
