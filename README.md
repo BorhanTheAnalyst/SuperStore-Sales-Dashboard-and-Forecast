@@ -32,6 +32,11 @@ This Power BI project focuses on analyzing sales data for a SuperStore. The proj
 
 ![SuperStore Sales Dashboard and Forecast_page-0002](https://github.com/user-attachments/assets/96c6d2cb-2d56-4586-9362-ed98e58cd645)
 *Figure 2: 15 days sales forecast.*
+## Demo Video
+Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
+
+## Demo Video
+<iframe width="560" height="315" src="https://youtu.be/nC-FiuiyjyY" frameborder="0" allowfullscreen></iframe>
 
 ## Insights
 - Identified underperforming regions with potential for targeted marketing campaigns.
