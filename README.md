@@ -1,34 +1,12 @@
 # Power BI SuperStore Sales Dashboard and Forecast
 
-## Overview
-This Power BI project focuses on analyzing sales data for a SuperStore. The project features:
-- An **interactive dashboard** to explore sales performance.
-- A **15-day sales forecast** using time series analysis.
-
-## Objectives
-1. Create an intuitive and visually appealing dashboard with key performance indicators (KPIs).
-2. Analyze sales trends and provide actionable insights.
-3. Forecast sales for the next 15 days using historical data.
-4. Support strategic decision-making for business growth and customer satisfaction.
-
-# SuperStore Sales Dashboard and Forecast
-
 ## Project Overview
 This project demonstrates an interactive Power BI dashboard analyzing SuperStore sales data. The dashboard includes dynamic filtering, KPIs, and a 15-day sales forecast using time series analysis.
 
 ## Objectives
 - Provide actionable insights and accurate sales forecasting to support business growth and decision-making.
 - Utilize interactive visualizations to explore sales data across different dimensions and granularity.
-  
-## Features
-- **Dashboard Highlights**:
-  - Sales trends over time.
-  - Performance by product category, region, and customer segment.
-  - Top-performing and underperforming products.
-
-- **Sales Forecast**:
-  - Leveraged Power BI's time series analysis tools to generate accurate forecasts.
-  - Visualized forecast results with confidence intervals.
+- Forecast sales for the next 15 days using historical data.
 
 ## Key Features
 1. **Interactive Dashboard**: Designed an intuitive dashboard with slicers, drill-downs, and KPIs for easy exploration of sales performance.
@@ -51,13 +29,6 @@ This project demonstrates an interactive Power BI dashboard analyzing SuperStore
 Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
 
 [![Watch the demo](https://img.youtube.com/vi/nC-FiuiyjyY/0.jpg)](https://youtu.be/nC-FiuiyjyY)
-
-
-## Insights
-- Identified underperforming regions with potential for targeted marketing campaigns.
-- Forecasted a 10% increase in sales for the next 15 days.
-- Recommended prioritizing high-performing product categories for increased inventory allocation.
-
 
 ## How to Use
 1. Download the Power BI file (`SuperStore Sales Dashboard and Forecast.pbix`).
