@@ -1,4 +1,4 @@
-# SuperStore Sales Dashboard and Forecast
+# Power BI SuperStore Sales Dashboard and Forecast
 
 ## Overview
 This Power BI project focuses on analyzing sales data for a SuperStore. The project features:
@@ -32,13 +32,10 @@ This Power BI project focuses on analyzing sales data for a SuperStore. The proj
 
 ![SuperStore Sales Dashboard and Forecast_page-0002](https://github.com/user-attachments/assets/96c6d2cb-2d56-4586-9362-ed98e58cd645)
 *Figure 2: 15 days sales forecast.*
-## Demo Video
+
+### Demo Video
 Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
 
-## Demo Video
-<iframe width="560" height="315" src="https://youtu.be/nC-FiuiyjyY" frameborder="0" allowfullscreen></iframe>
-
-# Demo Video
 [![Watch the demo](https://img.youtube.com/vi/nC-FiuiyjyY/0.jpg)](https://youtu.be/nC-FiuiyjyY)
 
 
