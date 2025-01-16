@@ -38,6 +38,10 @@ Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
 ## Demo Video
 <iframe width="560" height="315" src="https://youtu.be/nC-FiuiyjyY" frameborder="0" allowfullscreen> </iframe>
 
+## Demo Video
+[![Watch the demo](https://img.youtube.com/vi/nC-FiuiyjyY/0.jpg)](https://youtu.be/nC-FiuiyjyY)
+
+
 ## Insights
 - Identified underperforming regions with potential for targeted marketing campaigns.
 - Forecasted a 10% increase in sales for the next 15 days.
