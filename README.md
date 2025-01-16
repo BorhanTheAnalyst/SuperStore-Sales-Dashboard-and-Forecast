@@ -36,7 +36,7 @@ This Power BI project focuses on analyzing sales data for a SuperStore. The proj
 Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
 
 ## Demo Video
-<iframe width="560" height="315" src="https://youtu.be/nC-FiuiyjyY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/nC-FiuiyjyY" frameborder="0" allowfullscreen> </iframe>
 
 ## Insights
 - Identified underperforming regions with potential for targeted marketing campaigns.
