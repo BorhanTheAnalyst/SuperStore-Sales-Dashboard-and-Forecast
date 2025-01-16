@@ -11,6 +11,15 @@ This Power BI project focuses on analyzing sales data for a SuperStore. The proj
 3. Forecast sales for the next 15 days using historical data.
 4. Support strategic decision-making for business growth and customer satisfaction.
 
+# SuperStore Sales Dashboard and Forecast
+
+## Project Overview
+This project demonstrates an interactive Power BI dashboard analyzing SuperStore sales data. The dashboard includes dynamic filtering, KPIs, and a 15-day sales forecast using time series analysis.
+
+## Objectives
+- Provide actionable insights and accurate sales forecasting to support business growth and decision-making.
+- Utilize interactive visualizations to explore sales data across different dimensions and granularity.
+  
 ## Features
 - **Dashboard Highlights**:
   - Sales trends over time.
@@ -21,9 +30,14 @@ This Power BI project focuses on analyzing sales data for a SuperStore. The proj
   - Leveraged Power BI's time series analysis tools to generate accurate forecasts.
   - Visualized forecast results with confidence intervals.
 
+## Key Features
+1. **Interactive Dashboard**: Designed an intuitive dashboard with slicers, drill-downs, and KPIs for easy exploration of sales performance.
+2. **Sales Analysis**: Delivered insights into sales trends, customer segments, and overall profitability.
+3. **Forecasting**: Leveraged historical sales data for a 15-day time series sales forecast.
+4. **Actionable Recommendations**: Shared insights to optimize sales strategies and enhance customer satisfaction.
+   
 ## Tools and Technologies
-- **Power BI**: Data analysis and visualization.
-- **Excel**: Data cleaning and preprocessing.
+- **Power BI**: Data analysis, transformation, and visualization.
 - **DAX**: Custom calculations and measures for KPIs.
 
 ## Visuals
@@ -49,6 +63,11 @@ Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
 1. Download the Power BI file (`SuperStore Sales Dashboard and Forecast.pbix`).
 2. Open it in Power BI Desktop.
 3. Interact with the dashboard to explore sales data and view forecasts.
+
+## Learning Outcomes
+- Specialized in time series analysis and dynamic dashboard creation.
+- Developed skills in transforming and preprocessing data within Power BI.
+- Enhanced ability to derive actionable insights for strategic business decisions.
 
 ## Contact
 Feel free to reach out if you have any questions or feedback:
